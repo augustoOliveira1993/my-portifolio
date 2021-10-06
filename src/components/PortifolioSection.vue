@@ -103,7 +103,7 @@
               </div>
               <img
                 class="img-fluid"
-                src="../assets/img/portfolio/game.png"
+                src="../assets/img/portfolio/embre.png"
                 alt="..."
               />
             </div>
@@ -126,7 +126,7 @@
               </div>
               <img
                 class="img-fluid"
-                src="../assets/img/portfolio/safe.png"
+                src="../assets/img/portfolio/embre.png"
                 alt="..."
               />
             </div>
@@ -149,7 +149,7 @@
               </div>
               <img
                 class="img-fluid"
-                src="../assets/img/portfolio/submarine.png"
+                src="../assets/img/portfolio/embre.png"
                 alt="..."
               />
             </div>
@@ -168,16 +168,7 @@ export default {
   name: "PortifolioSection",
   components: { ModalPorti },
   data() {
-    return {
-      modals: [
-        {
-          titulo: "CRUD VueJS",
-          descricao:
-            "Todas opecaçoes como Cadastrar, Atualizar, deletar e buscar.",
-          img: "../assets/finace.png",
-        },
-      ],
-    };
+    return {};
   },
 };
 </script>
