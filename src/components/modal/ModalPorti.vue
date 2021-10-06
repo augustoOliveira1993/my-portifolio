@@ -250,7 +250,7 @@
                   <!-- Portfolio Modal - Image-->
                   <img
                     class="img-fluid rounded mb-5"
-                    src="../../assets/img/portfolio/"
+                    src="../../assets/img/portfolio/embre.png"
                     alt="..."
                   />
                   <!-- Portfolio Modal - Text-->
@@ -311,7 +311,7 @@
                   <!-- Portfolio Modal - Image-->
                   <img
                     class="img-fluid rounded mb-5"
-                    src="../../assets/img/portfolio/"
+                    src="../../assets/img/portfolio/embre.png"
                     alt="..."
                   />
                   <!-- Portfolio Modal - Text-->
@@ -372,7 +372,7 @@
                   <!-- Portfolio Modal - Image-->
                   <img
                     class="img-fluid rounded mb-5"
-                    src="../../assets/img/portfolio/"
+                    src="../../assets/img/portfolio/embre.png"
                     alt="..."
                   />
                   <!-- Portfolio Modal - Text-->
