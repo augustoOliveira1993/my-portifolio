@@ -191,9 +191,8 @@
                     Fisica e Juridica, Atualizar, Deletar e Buscar por nome.
                   </p>
                   <p>
-                    Acesso o projeto no meu GitHub:
-                    <a
-                      href="https://github.com/augustoOliveira1993/crud-cadastro-pessoa-vue"
+                    Acesse o projeto no ar:
+                    <a href="https://crud-cadastro-pessoa-vue.vercel.app/"
                       >Cadastro Pessoa</a
                     >
                   </p>
@@ -238,7 +237,7 @@
                   <h2
                     class="portfolio-modal-title text-secondary text-uppercase mb-0"
                   >
-                    Controller
+                    Em breve!
                   </h2>
                   <!-- Icon Divider-->
                   <div class="divider-custom">
@@ -251,16 +250,12 @@
                   <!-- Portfolio Modal - Image-->
                   <img
                     class="img-fluid rounded mb-5"
-                    src="../../assets/img/portfolio/game.png"
+                    src="../../assets/img/portfolio/"
                     alt="..."
                   />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Mollitia neque assumenda ipsam nihil, molestias magnam,
-                    recusandae quos quis inventore quisquam velit asperiores,
-                    vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                    Nam.
+                    Em breve!
                   </p>
                   <button
                     class="btn btn-primary"
@@ -303,7 +298,7 @@
                   <h2
                     class="portfolio-modal-title text-secondary text-uppercase mb-0"
                   >
-                    Locked Safe
+                    Em breve!
                   </h2>
                   <!-- Icon Divider-->
                   <div class="divider-custom">
@@ -316,16 +311,12 @@
                   <!-- Portfolio Modal - Image-->
                   <img
                     class="img-fluid rounded mb-5"
-                    src="../../assets/img/portfolio/safe.png"
+                    src="../../assets/img/portfolio/"
                     alt="..."
                   />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Mollitia neque assumenda ipsam nihil, molestias magnam,
-                    recusandae quos quis inventore quisquam velit asperiores,
-                    vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                    Nam.
+                    Em breve!
                   </p>
                   <button
                     class="btn btn-primary"
@@ -368,7 +359,7 @@
                   <h2
                     class="portfolio-modal-title text-secondary text-uppercase mb-0"
                   >
-                    Submarine
+                    Em breve!
                   </h2>
                   <!-- Icon Divider-->
                   <div class="divider-custom">
@@ -381,16 +372,12 @@
                   <!-- Portfolio Modal - Image-->
                   <img
                     class="img-fluid rounded mb-5"
-                    src="../../assets/img/portfolio/submarine.png"
+                    src="../../assets/img/portfolio/"
                     alt="..."
                   />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Mollitia neque assumenda ipsam nihil, molestias magnam,
-                    recusandae quos quis inventore quisquam velit asperiores,
-                    vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                    Nam.
+                    Em breve!
                   </p>
                   <button
                     class="btn btn-primary"
