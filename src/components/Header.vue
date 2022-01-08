@@ -17,7 +17,7 @@
       </div>
       <!-- Masthead Subheading-->
       <p class="masthead-subheading font-weight-light mb-0">
-        Desenvolvedor Junior - NodeJS - VueJS
+        Desenvolvedor Front Junior - Quasar - MongoDB - HTML5 - CSS - JavaScript - NodeJS - VueJS
       </p>
     </div>
   </header>
